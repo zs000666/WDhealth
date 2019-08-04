@@ -19,7 +19,7 @@ public class PatientFriendCircleApi {
     public static final String CUSTOMER_PATIENT_CIRCLE_ADOPTION__URL = "health/user/sickCircle/verify/v1/adoptionProposal";
     //发表观点
     public static final String CUSTOMER_PATIENT_PUBLISH_OPINION_URL = "health/user/sickCircle/verify/v1/expressOpinion";
-    //查看病友的病友圈发帖列表
+    //查看病友的病git友圈发帖列表
     public static final String CUSTOMER_PATIENT_CIRCLE_QUERY_SICK_LIST_URL = "health/user/sickCircle/v1/findPatientSickCircleList";
     //查看我的病友圈发帖列表
     public static final String CUSTOMER_PATIENT_CIRCLE_QUERY_MY_SICK_LIST_URL = "health/user/sickCircle/verify/v1/findMySickCircleList";
